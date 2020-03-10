@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "name": "user1",
+      "username": "user1",
+      "password": "1234",
+      "cryptocurrency": 5.9,
+      "id": 1
+    },
+    {
+      "name": "user2",
+      "username": "user2",
+      "password": "1234",
+      "cryptocurrency": 12.5,
+      "id": 2
+    },
+    {
+      "name": "user3",
+      "username": "user4",
+      "password": "1234",
+      "cryptocurrency": 15.4,
+      "id": 3
+    }
+  ],
+  "cryptocurrencyToChange": [
+    {
+      "currencyName": "ETH",
+      "cryptocurrency": 1.8,
+      "id": 1
+    },
+    {
+      "currencyName": "XRP",
+      "cryptocurrency": 2.5,
+      "id": 2
+    }
+  ],
+  "balanceOfUser": [
+    {
+      "userID": 1,
+      "cryptoChageID": 1,
+      "balance": 12,
+      "id": 1
+    },
+    {
+      "userID": 1,
+      "cryptoChageID": 2,
+      "balance": 20,
+      "id": 2
+    }
+  ]
+}
